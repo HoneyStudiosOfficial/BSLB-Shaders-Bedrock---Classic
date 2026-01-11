@@ -1,0 +1,112 @@
+{
+  "ambient.weather.thunder": {
+    "category": "weather",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/ambient/weather/thunder1",
+        "load_on_low_memory": true
+      },
+      "sounds/ambient/weather/thunder2",
+      "sounds/ambient/weather/thunder3",
+      "sounds/ambient/weather/thunder4",
+      "sounds/ambient/weather/thunder5",
+      "sounds/ambient/weather/thunder6",
+      "sounds/ambient/weather/thunder7",
+      "sounds/ambient/weather/thunder8",
+      "sounds/ambient/weather/thunder9",
+      "sounds/ambient/weather/thunder10",
+      "sounds/ambient/weather/thunder11",
+      "sounds/ambient/weather/thunder12",
+      "sounds/ambient/weather/thunder13",
+      "sounds/ambient/weather/thunder14"
+    ]
+  },
+  "ambient.weather.rain": {
+    "category": "weather",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/ambient/weather/rain1",
+        "volume": 0.10,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/ambient/weather/rain2",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain3",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain4",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain5",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain6",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain7",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain8",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain9",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain10",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain11",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain12",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain13",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain14",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain15",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain16",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain17",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain18",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain19",
+        "volume": 0.10
+      },
+      {
+        "name": "sounds/ambient/weather/rain20",
+        "volume": 0.10
+      }
+    ]
+  }
+}

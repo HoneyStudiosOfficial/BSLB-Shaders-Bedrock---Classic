@@ -1,0 +1,11 @@
+﻿## Pack Info
+pack.name=§bBSL Shaders Bedrock - Classic§r
+pack.description=§dMade by HoneyStudios§r
+
+## Accessibility / Load Message
+accessibility.chat.howtoopen=
+accessibility.chat.howtoemote=§r§bEnjoy the pack? Give it a ⭐⭐⭐⭐⭐ rating and share it with your friends!
+
+## Coord And Days
+map.position= §7X: §a%s  §7Y: §c%s  §7Z: §e%s
+hudScreen.daysPlayed= §cD§6a§ey§as §bP§dl§5a§cy§6e§ed: §b%s
