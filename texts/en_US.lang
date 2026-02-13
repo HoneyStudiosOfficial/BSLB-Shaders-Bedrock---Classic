@@ -5,7 +5,3 @@ pack.description=§dMade by HoneyStudios§r
 ## Accessibility / Load Message
 accessibility.chat.howtoopen=
 accessibility.chat.howtoemote=§r§bEnjoy the pack? Give it a ⭐⭐⭐⭐⭐ rating and share it with your friends!
-
-## Coord And Days
-map.position= §aX: %s §cY: %s §eZ: %s
-hudScreen.daysPlayed= Days Played: §b%s

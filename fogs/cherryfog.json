@@ -7,9 +7,9 @@
 
     "distance": {
       "air": {
-        "fog_start": 0.97,
+        "fog_start": 0.65,
         "fog_end": 1.0,
-        "fog_color": "#F0D6E8",
+        "fog_color": "#F6E1EB",
         "render_distance_type": "render"
       },
 
@@ -21,9 +21,9 @@
       },
 
       "weather": {
-        "fog_start": 0.88,
+        "fog_start": 0.65,
         "fog_end": 1.0,
-        "fog_color": "#2B2630",
+        "fog_color": "#F4D8E6",
         "render_distance_type": "render"
       }
     },
@@ -31,7 +31,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.026,
+          "max_density": 0.012,
           "uniform": false,
           "max_density_height": 85,
           "zero_density_height": 170
@@ -40,14 +40,14 @@
 
       "media_coefficients": {
         "air": {
-          "scattering": [0.062, 0.050, 0.058],
-          "absorption": [0.010, 0.015, 0.008]
+          "scattering": [0.090, 0.040, 0.060],
+          "absorption": [0.003, 0.0025, 0.002]
         }
       },
 
       "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.50
+          "henyey_greenstein_g": 0.25
         }
       }
     }

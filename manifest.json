@@ -1,18 +1,18 @@
 ﻿{
   "format_version": 2,
   "header": {
-    "name": "BSL Shaders Bedrock - Classic v1.6.0",
+    "name": "BSL Shaders Bedrock - Classic v1.7.0",
     "description": "BSL Shaders is a Vibrant Visuals Pack for Minecraft Bedrock.",
-    "uuid": "56432124-8862-4682-a3fb-412d9fb27c69",
-    "version": [1, 6, 0],
+    "uuid": "e58c68a1-5a52-4c96-b8a7-e2e3de202dac",
+    "version": [1, 7, 0],
     "min_engine_version": [1, 21, 90]
   },
   "modules": [
     {
       "description": "BSL Shaders Bedrock - Classic (Vibrant Visuals) Module",
       "type": "resources",
-      "uuid": "89e2594b-04fe-4997-a32c-20e255816e58",
-      "version": [1, 6, 0]
+      "uuid": "828729a8-92f8-40b4-9b67-5156e0da0c47",
+      "version": [1, 7, 0]
     }
   ],
   "capabilities": [
